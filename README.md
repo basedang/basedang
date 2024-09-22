@@ -1,6 +1,6 @@
 ## Hi there 👋
   Hi,i'basedang.
-  <img align="center" src="https://github-readme-stats.vercel.app/api/index.js/?username=basedang&theme=or" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=basedang&theme=or" />
 <!--
 **basedang/basedang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
