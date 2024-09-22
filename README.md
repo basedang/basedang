@@ -1,5 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=basedang&theme=or" />
+##Tool
+<img alt="Static Badge" src="https://img.shields.io/badge/build-Linux-brightgreen?label=OS&labelColor=grey&color=blue">
 <!--
 **basedang/basedang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
