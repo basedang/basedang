@@ -13,6 +13,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/build-Tencent-brightgreen?label=Cloud&labelColor=grey&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-Tencent?style=plastic&logoSize=auto&label=Cloud&labelColor=grey&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-Tencent?style=plastic&logoSize=auto&label=Cloud&labelColor=grey&color=blue">
+https://img.shields.io/badge/build-Tencent?style=flat&logoSize=auto&label=Cloud&labelColor=grey&color=blue
+https://img.shields.io/badge/build-Tencent?style=flat&logoSize=auto&label=Cloud&labelColor=grey&color=blue
 
 
 
