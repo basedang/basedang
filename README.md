@@ -11,8 +11,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/build-Visual%20Studio-brightgreen?label=Editor&labelColor=grey&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-Mysql-brightgreen?label=Tools&labelColor=grey&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-Tencent-brightgreen?label=Cloud&labelColor=grey&color=blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-Tencent-brightgreen?style=plastic&logoSize=auto&label=Cloud&labelColor=grey&color=blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-Tencent-brightgreen?style=plastic&logoSize=auto&label=Cloud&labelColor=grey&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-Tencent?style=plastic&logoSize=auto&label=Cloud&labelColor=grey&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-Tencent?style=plastic&logoSize=auto&label=Cloud&labelColor=grey&color=blue">
+
 
 
 
